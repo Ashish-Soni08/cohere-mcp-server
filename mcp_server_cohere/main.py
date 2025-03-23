@@ -1,5 +1,3 @@
-"""Cohere MCP Server"""
-
 def main():
     print("Hello from mcp-server-cohere!")
 
