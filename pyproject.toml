@@ -1,7 +1,7 @@
 [project]
-name = "mcp-server-cohere"
+name = "cohere-mcp-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "Cohere MCP Server"
 readme = "README.md"
 requires-python = ">=3.10.16"
 dependencies = [
