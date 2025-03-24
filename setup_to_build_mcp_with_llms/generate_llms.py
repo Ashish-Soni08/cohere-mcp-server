@@ -6,7 +6,7 @@ from firecrawl import FirecrawlApp
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Initialize the client
-firecrawl = FirecrawlApp(api_key="fc-37a7af4e01d245648cd514b401c18cce")
+firecrawl = FirecrawlApp(api_key="")
 
 # Define generation parameters
 params = {
